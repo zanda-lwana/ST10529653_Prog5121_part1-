@@ -7,7 +7,10 @@ student number: ST10529653
 
 ---------------------
 ## Project information 
-3 classes created : mainApp , Login, Login test
+3 classes created : 
+mainApp 
+Login
+Login test
 
 -------------------------
 ## feautures
