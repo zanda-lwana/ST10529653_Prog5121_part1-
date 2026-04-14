@@ -9,7 +9,7 @@ student number: ST10529653
 ## Project information 
 3 classes created : mainApp , Login, Login test
 
----------------------
+-------------------------
 ## feautures
 ## Username login
 consists of 2 underscores
