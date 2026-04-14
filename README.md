@@ -29,3 +29,5 @@ no longer than 12 digits
 ## Registration check
 password
 username
+first name
+last name
